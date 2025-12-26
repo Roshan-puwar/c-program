@@ -3,6 +3,7 @@ int main()
 {
  int i;
  float arr[10];
+ //here it asks 10 number input
  printf ("enter marks 10 numbers:");          
  for (i=0; i<10; i++){
     scanf("%f", &arr[i]);
